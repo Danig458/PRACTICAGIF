@@ -1,0 +1,2 @@
+los temas tratados son: git bash ramas
+sistema de control de versiones: es un sistema que nos ayuda a obtener versiones de un programa actualizaciones.
